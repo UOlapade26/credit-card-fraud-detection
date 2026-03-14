@@ -21,10 +21,10 @@ accuracy.
 2. Feature Engineering
 3. Data Splitting & Scaling
 4. Handling Class Imbalance (SMOTE)
-5. Baseline Model — Logistic Regression
-6. Main Model — XGBoost
+5. Baseline Model - Logistic Regression
+6. Main Model - XGBoost
 7. Model Evaluation & Comparison
-8. Model Explainability — SHAP
+8. Model Explainability - SHAP
 
 ## Tools & Libraries
 - Python 3.10
@@ -42,4 +42,4 @@ accuracy.
 4. Run all cells in order
 
 ## Author
-Uthman — Data Science & AI Student
+Uthman Olapade -Data Science & AI Student
